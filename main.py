@@ -6,7 +6,7 @@ while True:
     print("Введите 'выход' чтобы завершить")
 
     op = input("Операция (+, -, *, /, ^, %, sqrt): ")
-    if op.lower() == 'выход':
+    if op.lower() == '':
         break
 
     if op == 'sqrt':
