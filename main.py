@@ -1,12 +1,14 @@
 import math
 
 while True:
+    print('mazerati')
+    print('privet')
     print("\nКалькулятор с расширенными функциями")
     print("Доступные операции: +, -, *, /, ^ (степень), % (остаток), sqrt (квадратный корень)")
     print("Введите 'выход' чтобы завершить")
 
     op = input("Операция (+, -, *, /, ^, %, sqrt): ")
-    if op.lower() == '':
+    if op.lower() == 'выход':
         break
 
     if op == 'sqrt':
