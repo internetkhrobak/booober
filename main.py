@@ -61,3 +61,4 @@ while True:
                 print("Неизвестная операция.")
         except ValueError:
             print("Ошибка: введите числовые значения.")
+            print('ffffff')
