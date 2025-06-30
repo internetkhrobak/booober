@@ -62,3 +62,6 @@ while True:
         except ValueError:
             print("Ошибка: введите числовые значения.")
             print('ffffff')
+            print('fафыв')
+            print('афавфыаf')
+            
